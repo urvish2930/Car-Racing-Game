@@ -1,7 +1,6 @@
 # 🏎️ Car Racing Game
 A fun and addictive car racing game built using Python and Pygame. Dodge oncoming traffic, collect coins, and aim for a high score!
 
-![Gameplay Preview](screenshots/gameplay.png)
 ---
 ## 🎮 Features
 
@@ -42,10 +41,10 @@ python game.py
 > Place your screenshots in a `screenshots/` folder in your repo and name them appropriately.
 
 ### Start Menu
-![Start Menu](screenshots/start_menu.png)
+![Start Menu](https://github.com/urvish2930/Car-Racing-Game/blob/main/img/Screenshot%202025-06-24%20115735.png?raw=true)
 
 ### Game Over
-![Game Over](screenshots/game_over.png)
+![Game Over](https://github.com/urvish2930/Car-Racing-Game/blob/main/img/Screenshot%202025-06-24%20115757.png?raw=true)
 
 ---
 
